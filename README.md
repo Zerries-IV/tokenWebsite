@@ -5,7 +5,7 @@ It is a portfolio site to display information about your token.
 
 ## Preview
 
-![Hero]('/src/app/images/preview.png')
+![Hero](src/app/images/preview.png)
 
 ## Getting Started
 
