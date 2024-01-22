@@ -1,4 +1,11 @@
+# Token Website
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It is a portfolio site to display information about your token.
+
+## Preview
+
+![Hero]('/src/app/images/preview.png')
 
 ## Getting Started
 
