@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import Hero from "./Hero";
 import Offer from "./Offer";
 import Partner from "./Partner";
+import Socials from "./Socials";
 import useAnimation from "./useAnimation";
 
 
@@ -18,5 +19,6 @@ export {
     Experience,
     FAQ,
     Download,
-    Footer
+    Footer,
+    Socials
 }

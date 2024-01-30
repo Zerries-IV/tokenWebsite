@@ -20,7 +20,7 @@ const Offer = () => {
                 <p className={`text-gray text-sm  ${ animate ? 'animate-slideInAlt' : ''}`}>
                     Available as a browser extension and as a mobile app, Crypto equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets
                 </p>
-                <Button pauseForRef text='Learn More' image/>
+                <Button link={""} pauseForRef text='Learn More' image/>
             </div>
         </div>
     </main>

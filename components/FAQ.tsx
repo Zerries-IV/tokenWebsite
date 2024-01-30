@@ -6,15 +6,15 @@ import { useAnimation } from '.'
 const FAQ_INFORMATION = [
   {
     question: "What is Crypto",
-    answer: "A Token"
+    answer: "Cryptocurrencies are digital or virtual currencies that use cryptography for security. They operate on decentralized networks based on blockchain technology, a distributed ledger enforced by a network of computers (nodes). Bitcoin was the first cryptocurrency, introduced in 2009, and since then, many other cryptocurrencies (such as Ethereum, Ripple, Litecoin, etc.) have been created."
   },
   {
     question: "How much in supply",
-    answer: "100 000 000 TKC"
+    answer: "1 500 000 HSE"
   },
   {
     question: "How can I get some",
-    answer: "Await airdrop"
+    answer: "Airdrop Incoming...."
   }
 ]
 
@@ -30,7 +30,7 @@ const FAQ = () => {
               {item.question}
             </div>
             <div className="collapse-content">
-              <p className='text-xl font-medium text-pink'>
+              <p className='text-xl font-light text-pink'>
                 {item.answer}
               </p>
             </div>

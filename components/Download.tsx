@@ -3,7 +3,7 @@
 import { BG_2 } from '@/app/images'
 import Image from 'next/image'
 import React from 'react'
-import { Button, useAnimation } from '.'
+import { Socials, useAnimation } from '.'
 
 const Download = () => {
   const {animatedRef, animate} = useAnimation()
@@ -18,10 +18,7 @@ const Download = () => {
                 <p className='text-white text-xl animate-slideIn'>
                   Exchange your tokens with Crypto. Seamlessly, Instantly!
                 </p>
-                <div className='flex gap-3'>
-                  <Button text='Twitter ' image={false}/>
-                  <Button text='Telegram ' image={false}/>
-                </div>
+                <Socials />
             </div>
         </div>
     </main>

@@ -1,3 +1,5 @@
+import LOGO from './images/logo.jpg'
+
 import SVG_1 from './images/1.svg'
 import SVG_2 from './images/2.svg'
 import SVG_3 from './images/3.svg'
@@ -16,6 +18,8 @@ import PNG_2 from './images/2.png'
 
 
 export {
+    LOGO,
+    
     SVG_1,
     SVG_2,
     SVG_3,
