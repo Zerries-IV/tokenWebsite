@@ -18,7 +18,7 @@ const Offer = () => {
                     We offer the most <span className='text-green'>secure, fast and easy</span> Bitcoin transaction system in the world
                 </h1>
                 <p className={`text-gray text-sm  ${ animate ? 'animate-slideInAlt' : ''}`}>
-                    Available as a browser extension and as a mobile app, Crypto equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets
+                    Available as a browser extension and as a mobile app, Hest Swap equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets
                 </p>
                 <Button link={""} pauseForRef text='Learn More' image/>
             </div>

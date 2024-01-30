@@ -13,10 +13,10 @@ const Download = () => {
         <div  className={`absolute z-0 flex gap-10 mx-20 mt-30 max-[769px]:mx-10 max-[769px]:mt-20 max-[426px]:flex-col max-[426px]:mx-3 ${animate ? 'animate-slideUp' : ''} `}>
             <div className='flex flex-col justify-center items-center text-center gap-8 w-full'>
                 <h1 className='text-white text-[3.2rem] font-extrabold leading-tight max-[769px]:text-5xl max-[426px]:text-4xl animate-slideIn'>
-                  Join Crypto for free now!
+                  Join Hest Swap for free now!
                 </h1>
                 <p className='text-white text-xl animate-slideIn'>
-                  Exchange your tokens with Crypto. Seamlessly, Instantly!
+                  Exchange your tokens with Hest Swap. Seamlessly, Instantly!
                 </p>
                 <Socials />
             </div>

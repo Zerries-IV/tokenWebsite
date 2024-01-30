@@ -12,7 +12,7 @@ const Experience = () => {
   return (
     <main  className={`bg-black text-center py-32 ${animate ? 'opacity-100' : 'opacity-0'} `}>
         <h1 ref={animatedRef} className={`text-white font-bold text-4xl px-5 ${animate ? 'animate-slideUp' : ''} max-[376px]:text-3xl`}><span className='text-green'>Seamless</span> process, <span className='text-pink'>Flawless</span> experience</h1>
-        <p className={`text-gray px-5 mt-10 ${animate ? 'animate-slideUp' : ''}`}>Providing you with the most seamless process you can imagine for exchanging <br /> your crypto or tokens on Crypto</p>
+        <p className={`text-gray px-5 mt-10 ${animate ? 'animate-slideUp' : ''}`}>Providing you with the most seamless process you can imagine for exchanging <br /> your crypto or tokens on Hest Swap</p>
         <div className={`flex mt-20 justify-center items-center ${animate ? 'animate-slideUp' : ''} gap-y-10 max-[769px]:grid max-[769px]:grid-cols-2 max-[426px]:grid-cols-1`}>
             {
                 EXPERIENCE_INFORMATION.map((item, index) => (

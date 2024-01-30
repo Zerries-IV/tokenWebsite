@@ -5,7 +5,7 @@ import { useAnimation } from '.'
 
 const FAQ_INFORMATION = [
   {
-    question: "What is Crypto",
+    question: "What is a Crypto",
     answer: "Cryptocurrencies are digital or virtual currencies that use cryptography for security. They operate on decentralized networks based on blockchain technology, a distributed ledger enforced by a network of computers (nodes). Bitcoin was the first cryptocurrency, introduced in 2009, and since then, many other cryptocurrencies (such as Ethereum, Ripple, Litecoin, etc.) have been created."
   },
   {
