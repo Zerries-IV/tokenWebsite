@@ -16,7 +16,7 @@ const Hero = () => {
                     A modern and trusted swap and gateway to the blockchain ecosystems
                 </h1>
                 <p className='text-white text-xl animate-slideIn'>Buy, store, collect NFTs, exchange, and earn crypto. Join 25 million+ people using Trust Wallet.</p>
-                <Button link={""} text='WhitePaper' image/>
+                <Button link={`https://hestswap.gitbook.io/hest-swap/`} text='WhitePaper' image/>
             </div>
             <div className='w-[40%] pt-20 flex justify-center items-center max-[426px]:w-full'>
                 <Image src={PNG_1} priority width={350} height={700} alt='' className='animate-popUp' />
